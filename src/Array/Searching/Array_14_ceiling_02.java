@@ -1,6 +1,6 @@
 
 // Find ceiling in a sorted array
-// using linear search
+// using binary search
 
 
 package Array.Searching;
