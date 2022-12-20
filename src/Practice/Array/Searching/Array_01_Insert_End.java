@@ -1,8 +1,8 @@
-package Practice.Array;
+package Practice.Array.Searching;
 
 import java.util.Scanner;
 
-public class Arr_01_Insert_End {
+public class Array_01_Insert_End {
     public static void main(String[] args) {
         int [] arr1=new int[20];
         Scanner sc=new Scanner(System.in);
