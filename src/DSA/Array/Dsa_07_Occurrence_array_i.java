@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Array;
 
 public class Dsa_07_Occurrence_array_i {
     public static void main(String[] args) {

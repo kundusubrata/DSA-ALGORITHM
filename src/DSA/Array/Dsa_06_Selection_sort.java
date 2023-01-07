@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Array;
 
 public class Dsa_06_Selection_sort {
     private static int i;

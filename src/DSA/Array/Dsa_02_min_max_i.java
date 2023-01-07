@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Array;
 
 public class Dsa_02_min_max_i {
     public static void main(String[] args) {

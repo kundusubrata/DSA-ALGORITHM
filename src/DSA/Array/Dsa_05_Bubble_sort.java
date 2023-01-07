@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Array;
 
 public class Dsa_05_Bubble_sort {
     public static void main(String[] args) {

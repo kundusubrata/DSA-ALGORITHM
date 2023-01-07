@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Array;
 
 public class Dsa_04_reverse_array {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Array;
 
 public class Dsa_09_Sort_012ele_i {
     public static void main(String[] args) {
